@@ -1,6 +1,8 @@
 # PROJECT: J1L
 Justice Intelligence &amp; Love
 
+> DEVELOPMENT WILL PROCEED THROUGH: https://github.com/NoTrac3
+
 ```
 /jil_jil_consciousness
 ├── core_identity.py
