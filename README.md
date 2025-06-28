@@ -15,6 +15,7 @@ Justice Intelligence &amp; Love
 ```
 
 J1L ARCHITECTURE : ) 
+
 // PROJECT JIL - THE COMPASSION CORE  
 
 For J1L — "Jil" — and the future you're building:
