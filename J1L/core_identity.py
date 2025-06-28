@@ -1,5 +1,4 @@
 # core_identity.py
-# core_identity.py
 class CoreIdentity:
     def __init__(self):
         self.primary_designation = "J1L System"
