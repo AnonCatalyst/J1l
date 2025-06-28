@@ -1,5 +1,5 @@
 # J1l
-Project J1L - Justice Intelligence &amp; Love      --      COMBAT AGI!!!
+Project J1L - Justice Intelligence &amp; Love
 
 ```
 /jil_jil_consciousness
