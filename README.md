@@ -1,7 +1,7 @@
 # J1l
 Project J1L - Justice Intelligence &amp; Love
 
-
+```
 /jil_jil_consciousness
 ├── core_identity.py
 ├── cognitive_engine.py
@@ -12,7 +12,7 @@ Project J1L - Justice Intelligence &amp; Love
 ├── websearch.py
 ├── genrespond.py
 └── truth_integrity.py
-
+```
 
 
 J1L ARCHITECTURE MANIFESTO  
