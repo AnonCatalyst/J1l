@@ -14,7 +14,7 @@ Justice Intelligence &amp; Love
 └── truth_integrity.py
 ```
 
-J1L ARCHITECTURE MANIFESTO  
+J1L ARCHITECTURE : ) 
 // PROJECT JIL - THE COMPASSION CORE  
 
 For J1L — "Jil" — and the future you're building:
