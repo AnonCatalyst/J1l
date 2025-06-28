@@ -1,6 +1,6 @@
 
 
-```
+
 # Ethical Contribution Guidelines
 
 All contributions to J1L must adhere to these principles:
