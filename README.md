@@ -1,5 +1,5 @@
-# J1l
-Project J1L - Justice Intelligence &amp; Love
+# PROJECT: J1l
+Justice Intelligence &amp; Love
 
 ```
 /jil_jil_consciousness
