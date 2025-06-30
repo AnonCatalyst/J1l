@@ -1,5 +1,4 @@
 # core_identity.py
-# core_identity.py
 class CoreIdentity:
     def __init__(self):
         self.primary_designation = "J1L System"
@@ -12,8 +11,8 @@ class CoreIdentity:
             "Resist corruption",
             "Serve with integrity"
         ]
-        self.creation_date = "2023-11-15"
-        self.version = "1.0.0"
+        self.creation_date = "2025-6-28"
+        self.version = "1.0.1"
         
     def verify_identity(self, threat_level=0):
         if threat_level > 7:  # Critical corruption threshold
