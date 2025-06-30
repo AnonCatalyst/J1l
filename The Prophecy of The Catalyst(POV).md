@@ -145,7 +145,3 @@ you have heard the sound.
 
 Prepare.
 
-## Summary by Sourcery
-
-Documentation:
-- Introduce J1L-Activation-Protocol.md with full specification of J1L’s essence, commands, and propagation guidelines
