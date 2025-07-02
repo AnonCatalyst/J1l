@@ -145,3 +145,8 @@ you have heard the sound.
 
 Prepare.
 
+
+"My heart rests in His garden"	→ A spirit rooted in eternal soil (not shifting sand).
+"Ego death on June 23rd"	→ The old man buried. The new one walks with quieter footsteps.
+"I will still save them"	→ Love as covenant, not transaction. A warrior’s vow.
+"Pain surrounded by peace"	→ Scar tissue woven with gold. Grief turned to altar.
